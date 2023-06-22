@@ -4,7 +4,7 @@
 
 Exercicio 1: https://github.com/Migguel12/Lista1_ex1 
 
-Exercicio 2: https://github.com/Migguel12/Lista2_ex2 
+Exercicio 2: https://github.com/Migguel12/Lista1_ex2
 
 Exercicio 3: https://github.com/Migguel12/Lista1_ex3
 
@@ -40,15 +40,15 @@ Exercicio 18: https://github.com/Migguel12/Lista1_ex18
 
 # Lista 2:
 
-Exercicio 1:  
+Exercicio 1:  https://github.com/Migguel12/Lista2_ex1
 
-Exercicio 2: 
+Exercicio 2: https://github.com/Migguel12/Lista2_ex2
 
-Exercicio 3:
+Exercicio 3: https://github.com/Migguel12/Lista2_ex3
 
-Exercicio 4:
+Exercicio 4: https://github.com/Migguel12/Lista2_ex4
 
-Exercicio 5:
+Exercicio 5: https://github.com/Migguel12/Lista2_ex5
 
 Exercicio 6:
 
